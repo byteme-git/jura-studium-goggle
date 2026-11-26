@@ -5,13 +5,13 @@
 ! avatar: #8b0000
 
 ! Priorisierte Seiten nach subjektiver Erfahrung
-$boost=3,site=www.juraindividuell.de/
-$boost=2,site=jura-online.de/
-$boost=2,site=www.lecturio.de/
-$boost=2,site=www.juraforum.de/
-$boost=2,site=assessorexamentools.de/
-$boost=1,site=wissen.jurafuchs.de/
-$boost=1,site=www.legalexo.de/
+$boost=3,site=www.juraindividuell.de
+$boost=2,site=jura-online.de
+$boost=2,site=www.lecturio.de
+$boost=2,site=www.juraforum.de
+$boost=2,site=assessorexamentools.de
+$boost=1,site=wissen.jurafuchs.de
+$boost=1,site=www.legalexo.de
 
 ! Der Versuch Uni Websites mit Skripten zu boosten.
 !*uni*.de/*.pdf$boost=3
