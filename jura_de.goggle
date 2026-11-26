@@ -14,5 +14,5 @@ $boost=1,site=wissen.jurafuchs.de
 $boost=1,site=legalexo.de
 
 ! Der Versuch Uni Websites mit Skripten zu boosten.
-!*uni*.de/*.pdf$boost=3
-jura.*.de/*.pdf$boost=3
+!*uni*.de/*.pdf$boost=2
+jura.*.de/*.pdf$boost=2
